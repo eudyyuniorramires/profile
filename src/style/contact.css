@@ -1,0 +1,17 @@
+.Iconos-Contact{
+    display:flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+
+.Iconos-Contact a{
+
+    color: inherit;
+    text-decoration: none;
+}
+
+li{
+    margin: 40px;
+    list-style: none;
+}

@@ -1,0 +1,25 @@
+.NavInformation{
+    padding: 20px;
+    color: white;
+    background-color: #1f273f;
+
+;
+}
+
+
+.Nav-Complete{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.bi{
+
+    font-size: 3.0rem; 
+    width: auto;
+    height: auto;
+    margin-left: 40px;
+    
+    
+}
